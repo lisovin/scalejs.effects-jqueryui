@@ -10,11 +10,13 @@
     <Content Include="js\scalejs.effects-jqueryui.js" />
     <Content Include="js\scalejs.effects-jqueryui\effects.js" />
     <Content Include="Properties\test.js" />
+    <Content Include="Scripts\jasmine.js" />
     <Content Include="Scripts\jquery-1.8.3.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.3.js" />
     <Content Include="Scripts\jquery-1.8.3.min.js" />
     <Content Include="Scripts\jquery-ui-1.9.2.effects.js" />
     <Content Include="Scripts\jquery-ui-1.9.2.effects.min.js" />
+    <Content Include="Scripts\require.js" />
     <Content Include="Scripts\scalejs-0.1.1.js" />
     <Content Include="Scripts\scalejs-0.1.1.min.js" />
     <Content Include="test\all.tests.js" />
