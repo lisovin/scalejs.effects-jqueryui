@@ -1,0 +1,9 @@
+
+*.user
+/bin
+/build
+/obj
+/packages
+/TestResults
+/scalejs.effects-jqueryui.v11.suo
+/scalejs.effects-jqueryui.csproj.user

@@ -1,0 +1,11 @@
+﻿({
+    mainConfigFile: 'test.js',
+    include: [
+        'scalejs.effects-jqueryui'
+    ],
+	exclude: [
+		'scalejs!core',
+		'jQuery',
+		'jQuery-ui-effects'
+	]
+})
